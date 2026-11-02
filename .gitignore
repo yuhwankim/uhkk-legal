@@ -1,0 +1,6 @@
+.omc/
+CLAUDE.md
+STATUS.md
+HANDOFF.md
+*.log
+.env
